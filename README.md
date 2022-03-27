@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="assets/hello.gif" width="28px" alt="hi">, I'm Josli</h1>
-<h3 align="center">A passionate web developer and programmer living in Bangladesh</h3>
+<h3 align="center">A passionate web developer and programmer living in Bangladesh <img src="assets/bd-image.png" width="28px" alt="hi"></h3>
 
 :coffee: &emsp;Connect with me!
 
