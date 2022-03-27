@@ -12,19 +12,15 @@
 
 
 <details>
-<summary>
   <summary>:zap: GitHub Stats</summary>
   <!-- GitHub Stats Card -->
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dejosli&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-</summary>
 </details>
 
 <details>
-<summary>
   <summary>:zap: Most Used Languages</summary>
   <!-- Top Languages Card -->
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejosli&layout=compact">
-</summary>
 </details>
 
 
