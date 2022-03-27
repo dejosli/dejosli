@@ -14,8 +14,3 @@
 
 <!-- Top Languages Card -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejosli&layout=compact"><br/>
-
-<!-- GitHub Readme Stats -->
-[<a href="https://github.com/dejosli/NodeJS-RESTful-API-Boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dejosli&repo=NodeJS-RESTful-API-Boilerplate" />
-</a>
