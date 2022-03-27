@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josli</h1>
+<h1 align="center">Hi <img src="assets/hello.gif" width="28px" alt="hi">, I'm Josli</h1>
 <h3 align="center">A passionate web developer and programmer living in Bangladesh</h3>
 
 <!-- GitHub Stats Card -->
@@ -7,6 +7,7 @@
 <!-- Top Languages Card -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejosli&layout=compact"><br/>
 
-#### Languages and Tools
+<!-- #### Languages and Tools -->
+<h3 align="left">Languages and Tools</h3>
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&labelColor=black&logo=node.js&&logoColor=3C873A)](#) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&labelColor=black&logo=express&logoColor=%2361DAFB)](#)[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&labelColor=black&logo=react&logoColor=%2361DAFB)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&labelColor=black&logo=SASS&logoColor=white)](#) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=white)](#) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)](#) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#) [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=white)](#)
